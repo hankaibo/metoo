@@ -11,6 +11,12 @@
   * 取消 [rax](https://github.com/alibaba/rax) strat
   * 取消 [AliOS-Things](https://github.com/alibaba/AliOS-Things) strat
   * 取消 [GraphScope](https://github.com/alibaba/GraphScope) strat
+  * 取消 [ant-design](https://github.com/ant-design/ant-design) strat
+  * 取消 [ant-design-pro](https://github.com/ant-design/ant-design-pro) strat
+  * 取消 [pro-components](https://github.com/ant-design/pro-components) strat
+  * 取消 [ant-design-charts](https://github.com/ant-design/ant-design-charts) strat
+  * 取消 [ant-design-icons](https://github.com/ant-design/ant-design-icons) strat
+  * 取消 [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) strat
   * <details>
       <summary><b>点击查看更多</b></summary>
 
